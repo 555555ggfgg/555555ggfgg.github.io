@@ -34,7 +34,7 @@ window.addEventListener('load', function () {
     tipsElement.textContent = strTips;
 })
 
-var DATA_7Z_URL = window.DATA_7Z_URL || 'https://hk.gh-proxy.org/https://github.com/555555ggfgg/555555ggfgg.github.io/releases/download/gs/sdlpal.data.7zsdlpal.data.7z';
+var DATA_7Z_URL = window.DATA_7Z_URL || 'https://hk.gh-proxy.org/https://github.com/555555ggfgg/555555ggfgg.github.io/releases/download/gs/sdlpal.data.7z';
 var SEVENZ_WASM_CDN = window.SEVENZ_WASM_CDN || 'https://cdn.jsdelivr.net/npm/7z-wasm@1.2.0/7zz.es6.min.js';
 
 var Module = {
